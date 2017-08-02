@@ -1,0 +1,14 @@
+.idea/
+*.iml
+target
+bin
+.settings
+.externalToolBuilders
+.project
+.classpath
+.pdm
+.idea
+*.ipr
+*.iws
+reports
+.java-version
